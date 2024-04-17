@@ -26,5 +26,24 @@ As the journey progresses, the protagonist learns to understand and confront the
 - **[HEMANTH BALGI](https://github.com/theforce1579)**
 
 ## How to Contribute
-Use git clone followed by https link.
 
+We welcome contributions to improve **HackStory23** and make it even better! If you're interested in contributing, please follow these steps:
+
+1. **Fork** the repository: Click on the 'Fork' button at the top-right corner of this page to create a copy of the repository in your GitHub account.
+
+2. **Clone** the repository: Clone the forked repository to your local machine using the following command:
+git clone https://github.com/SonitBahl/HackStory23.git
+
+3. **Make changes**: Make your desired changes to the codebase.
+
+4. **Test**: Test your changes thoroughly to ensure they work as expected and do not introduce any regressions.
+
+5. **Commit**: Once you're happy with your changes, commit them with a descriptive commit message.
+
+6. **Push**: Push your changes to your forked repository.
+
+7. **Create a Pull Request**: Go to the GitHub page of your forked repository. You should see a 'Compare & pull request' button for the branch you just pushed. Click on it to open a pull request. Fill out the pull request template with details about your changes.
+
+8. **Review**: Your pull request will be reviewed by the maintainers. Be open to feedback and be ready to make changes if requested.
+
+Thank you for taking the time to contribute. Your contributions help make this project better for everyone!
